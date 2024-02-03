@@ -6,7 +6,7 @@ Welcome to the PlowDev Portfolio, the digital showcase of Plow's web development
 - [Features](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#features)
 - How to Use
 - [Contribution](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#contribution)
-- [License]([https://github.com/PlowDev/Website-Template?tab=readme-ov-file#licence](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#license))
+- [License](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#license)
 
 ## Introduction
 This repository is my personnal website created by Plow to make [My Website](https://plow.is-a.dev)
