@@ -1,5 +1,5 @@
 # PlowDev Portfolio
-Welcome to the PlowDev Portfolio, the digital showcase of Plow's web development journey. As a passionate website developer, I invite you to explore my work and get to know more about me.
+Welcome to the PlowDev Portfolio, the showcase of my web development. Here is my personnal website!
 
 ## Table of Contents
 - [Introduction](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#introdution)
