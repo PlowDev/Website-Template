@@ -26,9 +26,11 @@ Clone the repository to your local machine.
 **Changing Images**
 
 Replace the existing images in Assets/img with your own. Ensure that the file names in the HTML file match your new image names.
+
 **Background Video**
 
 Swap out the background video by replacing the existing video file in Assets/vid. Update the file name in the HTML file accordingly.
+
 **Colors**
 
 Feel free to modify the color scheme by adjusting the CSS styles in the styles.css file.
