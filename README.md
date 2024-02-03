@@ -4,7 +4,7 @@ Welcome to the PlowDev Portfolio, the digital showcase of Plow's web development
 ## Table of Contents
 - [Introduction](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#introdution)
 - [Features](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#features)
-- How to Use
+- [How to Use](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#how-to-use)
 - [Contribution](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#contribution)
 - [License](https://github.com/PlowDev/Website-Template?tab=readme-ov-file#license)
 
@@ -24,10 +24,13 @@ Clone the repository to your local machine.
 
 ## Customisation
 **Changing Images**
+
 Replace the existing images in Assets/img with your own. Ensure that the file names in the HTML file match your new image names.
 **Background Video**
+
 Swap out the background video by replacing the existing video file in Assets/vid. Update the file name in the HTML file accordingly.
 **Colors**
+
 Feel free to modify the color scheme by adjusting the CSS styles in the styles.css file.
 
 ## Contribution
